@@ -1,16 +1,14 @@
-## Hi there 👋
+  ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-<!--
-**Frustman/Frustman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🎓 Educations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[중앙대학교(Chung-Ang University)](https://www.cau.ac.kr/index.do, "Chung-Ang University") 소프트웨어학부(Software)
+
+## 🛠️ Stacks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio,unity,blender,notion,git,java,cs" />
+  </a>
+</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frustman&langs_count=10&layout=compact)]()
