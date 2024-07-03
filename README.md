@@ -11,4 +11,3 @@
     <img src="https://skillicons.dev/icons?i=gamemakerstudio,unity,blender,notion,git,java,cs" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frustman&langs_count=10&layout=compact)]()
